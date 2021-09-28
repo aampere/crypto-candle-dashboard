@@ -1,0 +1,9 @@
+#Builds
+/Crypto Candles Dashboard_windows64
+Crypto Candles Dashboard_windows64.zip
+
+#Qt profile stuff
+*.user
+
+#extras
+*.jpg
