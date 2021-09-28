@@ -18,5 +18,5 @@ The dashboard requires Qt to build. Qt is a cross-platform framework built on C+
 - Run.
 
 ## Build for Windows x64
-You can download a build at http://fastgrav.com/misc/Crypto%20Candles%20Dashboard_windows64.zip.
+You can download a build at fastgrav.com/misc/Crypto%20Candles%20Dashboard_windows64.zip.
 To run, unzip the archive and open `Candles.exe'.
