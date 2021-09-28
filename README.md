@@ -19,5 +19,5 @@ The dashboard requires Qt to build. Qt is a cross-platform framework built on C+
 
 ## Build for Windows x64
 You can download a build at http://fastgrav.com/misc/.  
+To run, unzip the archive and open `Candles.exe'.  
 (This website is run by me, for my other project FastGrav.)
-To run, unzip the archive and open `Candles.exe'.
