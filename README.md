@@ -8,7 +8,7 @@ A candle chart is a type of chart used in stock and currency trading that graphi
 ## Code notes
 Built with Qt/C++. Requests are made to the public Coinbase Pro API and do not require API keys, but this code also incudes the ability to send signed private API requests if API keys are provided.
 
-## Setup
+## Build Instructions
 The dashboard requires Qt to build. Qt is a cross-platform framework built on C++ that provides a great UI library. 
 - Create a Qt account. https://login.qt.io/register You may need to describe what you're using Qt for. It is possible to obtain a non-commercial Qt license for free in this process, which is what I use.
 - Install Qt: https://doc.qt.io/qt-5/gettingstarted.html.
